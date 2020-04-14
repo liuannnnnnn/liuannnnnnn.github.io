@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 韦阳的博客
-subtitle: 算法码上来
-description: 华东师范大学 | 计算机科学与技术 | 自然语言处理
-keywords: "ECNU NLP DeepLearning AntNLP 韦阳 godweiyang WeiYang 自然语言处理 深度学习 算法码上来"
-author: 韦阳
+title: 刘振亚的博客
+subtitle: 码不动
+description: 计算机科学与技术
+keywords: ""
+author: 刘振亚
 language: zh-CN
 timezone:
 
@@ -113,8 +113,7 @@ theme: matery
 deploy:
 - type: git
   repository:
-    github: git@github.com:godweiyang/godweiyang.github.io.git
-    # coding: git@e.coding.net:godweiyang/godweiyang.git
+    github: git@github.com:liuannnnnnn/liuannnnnnn.github.io.git
   branch: master
 - type: baidu_url_submitter
 
