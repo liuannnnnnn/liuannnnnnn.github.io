@@ -22,8 +22,6 @@ categories:
 
 **本文并不会详细讲解每种排序算法的原理**，网上有很多很好的教程，大家可以自己去搜了看。
 
-最后我还亲自手写了十种排序算法的 c++ 代码，大家可以用来通过 [LeetCode 912. 排序数组](https://leetcode-cn.com/problems/sort-an-array/ "LeetCode 912. 排序数组") 这道题。
-
 ## 性质汇总
 
 > 如果发现表中有错误，请留言告知。
@@ -41,11 +39,6 @@ categories:
 |  桶排序   |   $O(n)$  |   $O(n)$  |   $O(n)$  |  $O(n+m)$   |  $\checkmark$   | $\times$ |
 |  堆排序   |  $O(n\log n)$   |   $O(n\log n)$  |  $O(n\log n)$   |   $O(1)$  |  $\times$   | $\checkmark$ |
 
-
-
-> 如果表格显示有问题的话，还可以直接看下面的汇总图：
-
-![十大经典排序算法性质汇总](1.png)
 
 ### 维基百科
 
